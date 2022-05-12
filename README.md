@@ -9,6 +9,10 @@
 
 
 📫 How to reach me: https://www.linkedin.com/in/houssam-eddine-lamzoudi/
+
+
+
+[![Houssam-Eddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussamEddineLamzoud)](https://github.com/HoussamEddineLamzoud/github-readme-stats)
 <!--
 **HoussamEddineLamzoudi/HoussamEddineLamzoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
