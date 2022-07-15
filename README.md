@@ -8,11 +8,13 @@
 💬 Ask me about Coding
 
 
-📫 How to reach me: https://www.linkedin.com/in/houssam-eddine-lamzoudi/
+📫 How to reach me:
 
 
 
-[![HoussamEddineLamzoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussamEddineLamzoudi)](https://github.com/HoussamEddineLamzoudi/github-readme-stats)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssam-eddine-lamzoudi/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:houssam.eddine.lmz01@gmail.com)](mailto:houssam.eddine.lmz01@gmail.com)
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoussamEddineLamzoudi)  
 <!--
 **HoussamEddineLamzoudi/HoussamEddineLamzoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
