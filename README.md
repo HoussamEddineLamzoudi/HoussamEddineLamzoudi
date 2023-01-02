@@ -16,7 +16,7 @@
 
 <table cellpadding="0">
   <tr style="padding: 10">
-    <td valign="top" style"border: none;"><img height="200" src="https://github-readme-stats.vercel.app/api?username=HoussamEddineLamzoudi&show_icons=true&theme=dracula&include_all_commits=true"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=HoussamEddineLamzoudi&show_icons=true&theme=dracula&include_all_commits=true"/></td>
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamEddineLamzoudi&theme=dracula&layout=compact"/></td>
   </tr>
 </table> 
