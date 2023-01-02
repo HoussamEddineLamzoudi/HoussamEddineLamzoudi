@@ -12,7 +12,7 @@
 
 
 
-[![HoussamEddineLamzoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussamEddineLamzoudi&theme=react-dark)](https://github.com/HoussamEddineLamzoudi/github-readme-stats)
+<!-- [![HoussamEddineLamzoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussamEddineLamzoudi&theme=react-dark)](https://github.com/HoussamEddineLamzoudi/github-readme-stats) -->
 
 <table cellpadding="0">
   <tr style="padding: 10">
