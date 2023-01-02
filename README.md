@@ -12,9 +12,9 @@
 
 
 
-<!-- [![HoussamEddineLamzoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussamEddineLamzoudi)](https://github.com/HoussamEddineLamzoudi/github-readme-stats) -->
+[![HoussamEddineLamzoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussamEddineLamzoudi&theme=react-dark)](https://github.com/HoussamEddineLamzoudi/github-readme-stats)
 
-[![HoussamEddineLamzoudi's github activity graph](https://activity-graph.herokuapp.com/graph?username=HoussamEddineLamzoudi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![HoussamEddineLamzoudi's github activity graph](https://activity-graph.herokuapp.com/graph?username=HoussamEddineLamzoudi&theme=react-dark)](https://github.com/HoussamEddineLamzoudi/github-readme-activity-graph)
 
 
 [![Halazv2's github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
