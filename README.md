@@ -16,6 +16,9 @@
 
 [![HoussamEddineLamzoudi's github activity graph](https://activity-graph.herokuapp.com/graph?username=HoussamEddineLamzoudi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[![Halazv2's github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 **HoussamEddineLamzoudi/HoussamEddineLamzoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
