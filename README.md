@@ -2,7 +2,7 @@
 
 
 
-🌱 I’m currently learning on laravel | Vue.js
+🌱 I’m currently learning on Spring Boot | Angular
 
 
 💬 Ask me about Coding
